@@ -4,3 +4,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 - 00_2023-12-22_rocket-body &ndash; 
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7143237764979843072), 
 [Google Colab](https://colab.research.google.com/drive/1rTs99T62bXewyQiXf-796_2CbUIBFOUQ)
+
+- 01_2023-12-08_rocket-body &ndash;
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7148291052657868800),
+[Google Colab](https://colab.research.google.com/drive/1_h7bHK1bH0cG3EQMg8VhYzeEFmvOFOpX)
