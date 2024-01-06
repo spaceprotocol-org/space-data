@@ -12,3 +12,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 - 00_2023-12-22_debris &ndash;
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7148661669693390848),
 [Google Colab](https://colab.research.google.com/drive/1bx0crly_smriy6H42FuAtLNxUmCC9Rqt)
+
+- 00_2023-12-31_payload &ndash;
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7149035779485253633),
+[Google Colab](https://colab.research.google.com/drive/1HYG_Lxxns9idffcALWBzn8Mb_jAMybxj)
