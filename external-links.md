@@ -1,0 +1,6 @@
+## This file contains the list of external links for each analysis and for references and related resources:
+Each link is beside its corresponding file name for easier understanding, lookups and cataloguing.
+
+- 00_2023-12-22_rocket-body &ndash; 
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7143237764979843072), 
+[Google Colab](https://colab.research.google.com/drive/1rTs99T62bXewyQiXf-796_2CbUIBFOUQ)
