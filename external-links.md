@@ -27,8 +27,12 @@ Each link is beside its corresponding file name for easier understanding, lookup
 
 - 01_2024-01-01_payload &ndash;
 [LinkedIn](https://www.linkedin.com/posts/spaceprotocolorg_spacedebris-communication-worldeconomicforum-activity-7150497001791475714-F3QV),
-[Google Colab](https://colab.research.google.com/drive/1VKUVUkGrdGkRc-KqeuAH6oQQD1rrSAYD)
+[Google Colab](https://colab.research.google.com/drive/10zfVSpn0EdapXWAvQ1RXwrcVsvkB32rP)
 
-- 03_2023-01-10_debris &ndash;
+- 03_2024-01-10_debris &ndash;
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7150834330485833728),
+[Google Colab](https://colab.research.google.com/drive/1mMwnwZw7ZbQN0g91HI_FZxUP7jiXl7I9)
+
+- 02_2024-01-01_payload &ndash;
 [LinkedIn](),
-[Google Colab](https://colab.research.google.com/drive/1NLce2EFr8kl-guUsm_-W-SCQJMbuvjdC)
+[Google Colab](https://colab.research.google.com/drive/1hgrSu9dN1dSjWcCthU4EfGBtAVoJxyL-)
