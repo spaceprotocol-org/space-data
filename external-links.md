@@ -36,3 +36,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 - 02_2024-01-01_payload &ndash;
 [LinkedIn](),
 [Google Colab](https://colab.research.google.com/drive/1hgrSu9dN1dSjWcCthU4EfGBtAVoJxyL-)
+
+- 03_2023-12-29_payload &ndash;
+[LinkedIn](),
+[Google Colab](https://colab.research.google.com/drive/1CiZ74v21Ve3_tSTlxAfPoYsnJdTOPni_)
