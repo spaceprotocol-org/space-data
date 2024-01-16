@@ -34,9 +34,9 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1mMwnwZw7ZbQN0g91HI_FZxUP7jiXl7I9)
 
 - 02_2024-01-01_payload &ndash;
-[LinkedIn](),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7151588247272329216),
 [Google Colab](https://colab.research.google.com/drive/1hgrSu9dN1dSjWcCthU4EfGBtAVoJxyL-)
 
 - 03_2023-12-29_payload &ndash;
-[LinkedIn](),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7152808893797072896),
 [Google Colab](https://colab.research.google.com/drive/1CiZ74v21Ve3_tSTlxAfPoYsnJdTOPni_)
