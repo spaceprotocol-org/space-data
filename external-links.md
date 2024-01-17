@@ -40,3 +40,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 - 03_2023-12-29_payload &ndash;
 [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7152808893797072896),
 [Google Colab](https://colab.research.google.com/drive/1CiZ74v21Ve3_tSTlxAfPoYsnJdTOPni_)
+
+- 04_2024-01-16_paylod &ndash;
+[LinkedIn](),
+[Google Colab](https://colab.research.google.com/drive/1rYyXBhRlqCiolIz4EGfSVuHSlT8KxAlY)
