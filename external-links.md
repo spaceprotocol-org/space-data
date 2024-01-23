@@ -42,5 +42,5 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1CiZ74v21Ve3_tSTlxAfPoYsnJdTOPni_)
 
 - 04_2024-01-22_debris &ndash;
-[LinkedIn](),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7155190696339984384),
 [Google Colab](https://colab.research.google.com/drive/1pQGdOsZJCKkAceraWXW8QqhbtE0SriN4)
