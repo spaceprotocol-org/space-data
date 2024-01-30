@@ -10,7 +10,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1_h7bHK1bH0cG3EQMg8VhYzeEFmvOFOpX)
 
 - 00_2023-12-22_debris &ndash;
-[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7148661669693390848),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7158083872566439937),
 [Google Colab](https://colab.research.google.com/drive/1bx0crly_smriy6H42FuAtLNxUmCC9Rqt)
 
 - 00_2023-12-31_payload &ndash;
@@ -26,7 +26,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1PGVZXMCaL-Y2k2cFprz4I8R000rTtWb4)
 
 - 01_2024-01-01_payload &ndash;
-[LinkedIn](https://www.linkedin.com/posts/spaceprotocolorg_spacedebris-communication-worldeconomicforum-activity-7150497001791475714-F3QV),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7150834330485833728),
 [Google Colab](https://colab.research.google.com/drive/10zfVSpn0EdapXWAvQ1RXwrcVsvkB32rP)
 
 - 03_2024-01-10_debris &ndash;
@@ -46,5 +46,5 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1pQGdOsZJCKkAceraWXW8QqhbtE0SriN4)
 
 - 05_2024-01-24_debris &ndash;
-[LinkedIn](),
+[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7155939774522970114),
 [Google Colab](https://colab.research.google.com/drive/1PtQdSlJveV-537zzSB2WfF1Io-2um3oe)
