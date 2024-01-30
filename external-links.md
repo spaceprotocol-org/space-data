@@ -26,7 +26,7 @@ Each link is beside its corresponding file name for easier understanding, lookup
 [Google Colab](https://colab.research.google.com/drive/1PGVZXMCaL-Y2k2cFprz4I8R000rTtWb4)
 
 - 01_2024-01-01_payload &ndash;
-[LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7150834330485833728),
+[LinkedIn](),
 [Google Colab](https://colab.research.google.com/drive/10zfVSpn0EdapXWAvQ1RXwrcVsvkB32rP)
 
 - 03_2024-01-10_debris &ndash;
